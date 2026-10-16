@@ -34,7 +34,7 @@ Driving resilient enterprise systems, modern quality engineering, and cloud-scal
 
 # About Me
 
-I’m Amit Kumar Jain, a distinguished engineering leader with 20+ years of experience delivering mission-critical enterprise platforms, distributed cloud environments, virtualization ecosystems, and software-defined storage systems.
+I’m Amit Kumar Jain, a distinguished engineering leader with 15+ years of experience delivering mission-critical enterprise platforms, distributed cloud environments, virtualization ecosystems, and software-defined storage systems.
 
 My career spans global leadership roles across Intel, VMware, Dell-EMC, and HCL, where I’ve built quality governance frameworks, driven 100% automation roadmaps, and led multi-team initiatives across India/U.S. engineering organizations. I specialize in bridging technical depth with business outcomes—reducing cloud spend, accelerating product certifications, improving release confidence, and building high-performing engineering teams.
 
@@ -136,7 +136,7 @@ I’m passionate about quality strategy, platform resilience, AI-augmented engin
 # Professional Experience
 
 ## Intel Software India Pvt. Ltd. | Bengaluru, India
-### Cloud Application Lead (QE & Infrastructure Leadership) | May 2023 – Jul 2025
+### Cloud Application Lead (QE & Infrastructure Leadership) 
 
 - Led the quality engineering roadmap, validation strategy, and release governance for Intel Trusted Platform Ledger across distributed cloud and ledger-based architectures.
 - Managed and mentored a 6-member QE team across two major enterprise programs; fostered engineering excellence and delivery accountability in global teams.
@@ -146,7 +146,7 @@ I’m passionate about quality strategy, platform resilience, AI-augmented engin
 - Improved release efficiency by integrating shift-left validation and reducing regression execution cycles by 15%.
 
 ## VMware Inc. | Bengaluru, India
-### Senior Member of Technical Staff (SMTS) | Sep 2021 – May 2023
+### Senior Member of Technical Staff (SMTS) 
 
 - Directed quality engineering strategy for VMware Blockchain across multi-node distributed environments and consensus-based systems.
 - Designed modular Python-based automation frameworks for Kubernetes, Docker, and AWS validation workflows.
@@ -154,34 +154,20 @@ I’m passionate about quality strategy, platform resilience, AI-augmented engin
 - Coordinated hardware planning and distributed testbed topology design to align with enterprise-scale validation needs.
 
 ## Dell-EMC | Bengaluru, India
-### Senior Principal Engineer | Sep 2017 – Sep 2021
+### Senior Principal Engineer 
 
 - Owned validation architecture and release sign-off for Dell Storage Manager and VMware Storage Replication Adapter (SRA).
 - Directed VMware SRM qualification cycles across enterprise storage products, helping accelerate certification by two weeks.
 - Built Python and Shell automation frameworks for regression, failover, and interoperability validation to improve product quality and speed.
 - Partnered with engineering, pre-sales, and product teams to ensure enterprise storage and VMware interoperability and HA readiness.
 
-## HCL Technologies (Client: Dell-EMC) | Bengaluru, India
-### Test Manager | Sep 2015 – Oct 2017
-
-- Managed a dedicated QA team validating VMware vSphere storage plugins including Storage Replication Adapter and VSWP Plugin.
-- Improved testbed efficiency by 25% through shared virtualized environments and automation-driven setup simplification.
-- Ensured compatibility across iSCSI, FC, FCoE, and multi-vendor SAN/NAS infrastructures, reducing customer escalations and contract churn.
-
 ## VMware Inc. | Bengaluru, India
-### Member of Technical Staff – III | Jan 2008 – Sep 2015
+### Member of Technical Staff – III 
 
 - Delivered core quality assurance for VMware vSAN and vSphere releases across enterprise server, storage, and networking environments.
 - Qualified hardware compatibility matrices (HCL) for VMware ecosystem readiness and pre-sales enablement.
 - Reduced lab CapEx by streamlining testbed planning and hardware reuse strategies.
 - Partnered with support and development teams for escalation reproduction and defect validation in complex enterprise workloads.
-
-## Dell India R&D | Bengaluru, India
-### Test Engineer Analyst | Oct 2005 – Jan 2008
-
-- Performed functional, interoperability, and endurance testing for PowerEdge server platforms and enterprise storage fabrics.
-- Executed performance and load benchmarking to validate server memory, CPU, and storage I/O under peak stress conditions.
-- Tested multi-vendor interoperability across server, storage, and network hardware to validate stability in heterogeneous datacenter environments.
 
 ---
 
