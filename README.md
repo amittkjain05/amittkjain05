@@ -36,7 +36,7 @@ Driving resilient enterprise systems, modern quality engineering, and cloud-scal
 
 I’m Amit Kumar Jain, a distinguished engineering leader with 15+ years of experience delivering mission-critical enterprise platforms, distributed cloud environments, virtualization ecosystems, and software-defined storage systems.
 
-My career spans global leadership roles across Intel, VMware, Dell-EMC, and HCL, where I’ve built quality governance frameworks, driven 100% automation roadmaps, and led multi-team initiatives across India/U.S. engineering organizations. I specialize in bridging technical depth with business outcomes—reducing cloud spend, accelerating product certifications, improving release confidence, and building high-performing engineering teams.
+My career spans global leadership roles across Intel, VMware and Dell-EMC, where I’ve built quality governance frameworks, driven 100% automation roadmaps, and led multi-team initiatives across India/U.S. engineering organizations. I specialize in bridging technical depth with business outcomes—reducing cloud spend, accelerating product certifications, improving release confidence, and building high-performing engineering teams.
 
 I’m passionate about quality strategy, platform resilience, AI-augmented engineering, and transforming complex infrastructure into scalable, dependable systems.
 
